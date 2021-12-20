@@ -1,0 +1,27 @@
+/* body {
+  background: linear-gradient(
+    to right top,
+    #24275c,
+    #2b2e5d,
+    #31355e,
+    #383b5f,
+    #3f425f
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} */
+
+* {
+  background-color: #2a2441;
+  box-sizing: border-box;
+  color: #b3b8cd;
+}
+
+.App h1 {
+  margin-top: 30px;
+
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #e1ebfd;
+  text-shadow: 0 0 5px #433aa8, 3px -1px 5px #271c6c;
+}
